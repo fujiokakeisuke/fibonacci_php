@@ -46,6 +46,6 @@ class fibo{
     }
 
 } ?>
-<a href="http://192.168.33.10/fibonacci01.html" >　前のページに戻る　</a>
+<a href="fibonacci01.html" >　前のページに戻る　</a>
 </body>
 </html>
